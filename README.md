@@ -1,5 +1,14 @@
-BAD GAME
+## **Small XNA game**
+### Purpose of the game: collect all fruits and not be eaten by monsters
 
-This project was created for self-education. It is a small game written in the C # language using the XNA Framework.
+This project was created for self-education. It is a small game written in C#, using XNA Framework.
 
-To open the project, you need the Microsoft XNA Framework. Detailed installation instructions for Visual Studio 2017 can be found here: http://flatredball.com/visual-studio-2017-xna-setup/
+
+To open project, you need to install Microsoft XNA Framework. Detailed installation instructions for Visual Studio 2017 can be found here: http://flatredball.com/visual-studio-2017-xna-setup/
+
+Screenshots
+![1.JPG]({{site.baseurl}}/1.JPG)
+
+![2.JPG]({{site.baseurl}}/2.JPG)
+
+
